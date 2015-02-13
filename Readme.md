@@ -33,6 +33,6 @@ $ streamparse run
 
 ### Streamparse doc
 
-https://github.com/Parsely/streamparse/blob/master/doc/source/quickstart.rst
-
+http://streamparse.readthedocs.org/en/latest/quickstart.html
+http://streamparse.readthedocs.org/en/latest/api.html
 
