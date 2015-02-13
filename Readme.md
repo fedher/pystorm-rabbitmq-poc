@@ -10,10 +10,17 @@ to RabbitMQ.
 - python
 - java 7 or higher
 - lein 2 or higher
+
+### Python requirements
+
 - streamparse
 
 ```
 $ pip install streamparse
+```
+- pika
+```
+$ pip install pika
 ```
 
 
