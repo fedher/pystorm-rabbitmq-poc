@@ -1,7 +1,7 @@
 # PyStorm RabbitMQ
 
-This is an example about using Apache Storm with Python and RabbitMQ. The example get words from RabbitMQ 
-(from a spout) and count them (from a bolt). Before running the example you should publish some messages 
+This is an example about using Apache Storm with Python and RabbitMQ. The example gets words from RabbitMQ 
+(from a spout) and counts them (from a bolt). Before running the example you should publish some messages 
 to RabbitMQ.
 
 
